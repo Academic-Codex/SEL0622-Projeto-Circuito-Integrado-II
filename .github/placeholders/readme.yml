@@ -1,0 +1,12 @@
+REPO_TAGLINE: Advanced IC design • optimization • fabrication constraints
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEL0622-Projeto-Circuito-Integrado-II
+
+BG_1: "#1A0F0F"
+BG_2: "#3D1F1F"
+TEXT_MAIN: "#FFEAEA"
+TEXT_MUTED: "#E5B4B4"
+ACCENT: "#F87171"
+CARD_RADIUS: "14"
