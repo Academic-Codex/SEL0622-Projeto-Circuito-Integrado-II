@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0622-Projeto-de-Circuitos-Integrados-Digitais-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:51.071392Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEL0622-Projeto-de-Circuitos-Integrados-Digitais-II?utm_source=SEL0622-Projeto-de-Circuitos-Integrados-Digitais-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:57.179554Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
